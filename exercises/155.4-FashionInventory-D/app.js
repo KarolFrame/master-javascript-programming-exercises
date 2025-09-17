@@ -18,8 +18,7 @@ let currentInventory = [
 ];
 
 function getLaceNameDataForShoes(inventory) {
-    // your code here
-    
+    console.log("hola");
 }
 
 console.log(getLaceNameDataForShoes(currentInventory));
